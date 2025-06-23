@@ -9,8 +9,6 @@ const analyzeMessage = async (req, res) => {
   }
 
   console.log("📨 Message received:", message);
-  console.log("🔑 API Key:", process.env.HF_API_KEY);
-
   try {
     const response = await axios.post(
       "https://api-inference.huggingface.co/models/facebook/bart-large-mnli",
