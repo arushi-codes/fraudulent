@@ -1,0 +1,1 @@
+Welcome to Message Fraud & Spam Detector — a powerful tool that analyzes text messages to determine whether they are fraudulent, scam, or spam, and provides a confidence rating to help you make informed decisions.
