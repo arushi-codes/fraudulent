@@ -12,15 +12,6 @@ A **lightweight web app** that analyzes text messages to detect whether they are
 
 ---
 
-## 📂 Project Structure
-fraudulent/
-│── client/ # Frontend: UI, input handling, styling
-│── server/ # Backend: message analysis logic
-└── README.md
-
-
----
-
 ## ⚡ Installation & Setup
 
 1️⃣ **Clone the repository**  
