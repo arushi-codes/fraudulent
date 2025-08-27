@@ -11,6 +11,10 @@ A **lightweight web app** that analyzes text messages to detect whether they are
 ✅ Built with **JavaScript, HTML, and CSS**  
 
 ---
+Live Link
+https://fraudulent.netlify.app/
+
+---
 
 ## ⚡ Installation & Setup
 
