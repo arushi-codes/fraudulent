@@ -1,0 +1,41 @@
+.App {
+  max-width: 600px;
+  margin: 3rem auto;
+  padding: 1rem;
+  text-align: center;
+  font-family: Arial;
+  background: #f5f5f5;
+  border-radius: 8px;
+  box-shadow: 0 0 12px rgba(0, 0, 0, 0.1);
+}
+
+textarea {
+  width: 100%;
+  font-size: 1rem;
+  padding: 10px;
+  margin-bottom: 1rem;
+  resize: vertical;
+}
+
+button {
+  padding: 0.6rem 1.5rem;
+  font-size: 1rem;
+  background-color: #1d4ed8;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+button:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}
+
+.result {
+  margin-top: 2rem;
+  padding: 1rem;
+  background: #fff;
+  border-radius: 6px;
+  box-shadow: 0 0 5px rgba(0,0,0,0.1);
+}
